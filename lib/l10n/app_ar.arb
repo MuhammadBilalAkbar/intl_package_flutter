@@ -1,0 +1,6 @@
+{
+  "language": "عربي",
+  "helloWorld": "!مرحبا بالعالم",
+  "multiLanguage": "متعدد اللغات",
+  "hello": "مرحبًا {username}"
+}

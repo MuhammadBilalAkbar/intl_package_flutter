@@ -1,0 +1,6 @@
+{
+  "language": "فارسی",
+  "helloWorld": "!سلام دنیا",
+  "multiLanguage": "چند زبانه",
+  "hello": "سلام {username}"
+}

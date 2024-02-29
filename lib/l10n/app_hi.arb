@@ -1,0 +1,6 @@
+{
+  "language": "हिंदी",
+  "helloWorld": "हैलो वर्ल्ड!",
+  "multiLanguage": "बहु भाषा",
+  "hello": "नमस्ते {username}"
+}

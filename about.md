@@ -113,7 +113,8 @@ intl: ^0.18.1
   after running our project.
 - app_localization file is common which is combining all of the following localization files for
   different languages.
-- Inside MaterialApp, set the locale to english language, supported locales to all languages from l10.dart file.
+- Inside MaterialApp, set the locale to english language, supported locales to all languages from
+  l10.dart file.
 - And set the localizationsDelegates to AppLocalizations.localizationsDelegates.
 - Inside it, we have simple delegate with Global Material, Cupertino, and Widgets delegates.
 - Inside home_page, set the appBar title like this:
